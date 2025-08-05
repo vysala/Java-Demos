@@ -1,4 +1,4 @@
-
+package ConditionalStatements;
 public class IfConditionDemo {
 
 	public static void main(String[] args) 
@@ -13,3 +13,4 @@ public class IfConditionDemo {
 	}
 
 }
+
