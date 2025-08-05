@@ -1,3 +1,4 @@
+package ConditionalStatements;
 public class EvenOrOddNumber {
 
 	public static void main(String[] args) {
@@ -17,3 +18,4 @@ public class EvenOrOddNumber {
 	}
 
 }
+
